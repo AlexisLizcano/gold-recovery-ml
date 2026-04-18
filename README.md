@@ -128,8 +128,8 @@ La app incluye 5 secciones:
 
 ---
 
-## 👩‍💻 Autora
+## Autor
 
-**Lizca** — TripleTen Data Science Bootcamp, Sprint 13
+**Alexis Gonzalez Lizcano Ingeniero en Redes y Telecomunicaciones**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/TU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/alexis-gonzalez-lizcano)
